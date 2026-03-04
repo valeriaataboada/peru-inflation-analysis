@@ -1,4 +1,4 @@
-# Portfolio Valeria - Proyecto Macro
+# Peru's inflation analysis
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -43,5 +43,6 @@ plt.title("Inflación en Perú (2015-2024)")
 plt.xlabel("Año")
 plt.ylabel("Inflación (%)")
 plt.show()
+
 
 
